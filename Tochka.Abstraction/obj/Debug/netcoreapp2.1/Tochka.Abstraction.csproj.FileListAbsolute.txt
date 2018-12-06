@@ -1,0 +1,9 @@
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka.Abstraction\bin\Debug\netcoreapp2.1\Tochka.Abstraction.deps.json
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka.Abstraction\bin\Debug\netcoreapp2.1\Tochka.Abstraction.dll
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka.Abstraction\bin\Debug\netcoreapp2.1\Tochka.Abstraction.pdb
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka.Abstraction\obj\Debug\netcoreapp2.1\Tochka.Abstraction.csprojAssemblyReference.cache
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka.Abstraction\obj\Debug\netcoreapp2.1\Tochka.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka.Abstraction\obj\Debug\netcoreapp2.1\Tochka.Abstraction.AssemblyInfoInputs.cache
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka.Abstraction\obj\Debug\netcoreapp2.1\Tochka.Abstraction.AssemblyInfo.cs
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka.Abstraction\obj\Debug\netcoreapp2.1\Tochka.Abstraction.dll
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka.Abstraction\obj\Debug\netcoreapp2.1\Tochka.Abstraction.pdb

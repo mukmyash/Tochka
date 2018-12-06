@@ -1,0 +1,16 @@
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\bin\Debug\netcoreapp2.1\Tochka.deps.json
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\bin\Debug\netcoreapp2.1\Tochka.runtimeconfig.json
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\bin\Debug\netcoreapp2.1\Tochka.runtimeconfig.dev.json
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\bin\Debug\netcoreapp2.1\Tochka.dll
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\obj\Debug\netcoreapp2.1\Tochka.csprojAssemblyReference.cache
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\obj\Debug\netcoreapp2.1\Tochka.csproj.CoreCompileInputs.cache
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\obj\Debug\netcoreapp2.1\Tochka.AssemblyInfoInputs.cache
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\obj\Debug\netcoreapp2.1\Tochka.AssemblyInfo.cs
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\bin\Debug\netcoreapp2.1\Tochka.Abstraction.dll
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\bin\Debug\netcoreapp2.1\Tochka.VK.Services.dll
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\bin\Debug\netcoreapp2.1\Tochka.pdb
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\bin\Debug\netcoreapp2.1\Tochka.Abstraction.pdb
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\bin\Debug\netcoreapp2.1\Tochka.VK.Services.pdb
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\obj\Debug\netcoreapp2.1\Tochka.csproj.CopyComplete
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\obj\Debug\netcoreapp2.1\Tochka.dll
+C:\Users\mukmi\Documents\Projects\test\Tochka\Tochka\obj\Debug\netcoreapp2.1\Tochka.pdb
